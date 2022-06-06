@@ -10,11 +10,11 @@
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-envelope" aria-hidden="true"></i> </div>
               <p class="uppercase_text">For Support Mail us : </p>
-              <a href="mailto:info@example.com">usalahore.00777@gmail.com</a> </div>
+              <a href="mailto:info@example.com">fastrent@gmail.com</a> </div>
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-phone" aria-hidden="true"></i> </div>
               <p class="uppercase_text">Service Helpline Call Us: </p>
-              <a href="tel:61-1234-5678-09">+91-1122-3345-43</a> </div>
+              <a href="tel:61-1234-5678-09">+62-1122-3345-43</a> </div>
             <div class="social-follow">
               <ul>
                 <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
